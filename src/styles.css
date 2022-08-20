@@ -1,0 +1,35 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: green;
+    padding: 2rem;
+  }
+  
+  input {
+    padding: 1.5rem;
+    width: 40%;
+    border-radius: 0.7rem;
+    border-color: burlywood;
+    border-width: 0.1rem;
+  }
+  
+  p {
+    color: #b45309;
+    padding: 2rem;
+    font-size: large;
+  }
+  
+  h3 {
+    color: #155e75;
+    padding-bottom: 0.5rem;
+  }
+  
+  #emojiContainer {
+    width: 500px;
+    margin: auto;
+    padding: 1rem;
+  }
+  
